@@ -1,4 +1,4 @@
-MESSAGE_QUEUE_IP = "34.67.236.127"
+MESSAGE_QUEUE_IP = "127.0.0.1"
 UE_PULL_TOPIC = "ue_activity" 
 UE_PUSH_TOPIC = "ue_info"
 
