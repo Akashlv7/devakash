@@ -1,0 +1,13 @@
+flask
+notebook
+paho-mqtt
+pymongo
+haversine
+numpy
+elasticsearch
+pandas
+matplotlib
+seaborn
+rankFM
+sklearn
+openpyxl
