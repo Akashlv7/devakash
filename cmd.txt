@@ -1,0 +1,1 @@
+mongod -dbpath /var/lib/mongodb/ -----> To run MongoDB on GCP instance
